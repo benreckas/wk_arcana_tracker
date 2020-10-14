@@ -1,0 +1,236 @@
+- :name: Abaddon
+  :is_collected: false
+- :name: Alchemist
+  :is_collected: false
+- :name: Ancient Apparition
+  :is_collected: false
+- :name: Anti-Mage
+  :is_collected: false
+- :name: Arc Warden
+  :is_collected: false
+- :name: Axe
+  :is_collected: false
+- :name: Bane
+  :is_collected: false
+- :name: Batrider
+  :is_collected: false
+- :name: Beastmaster
+  :is_collected: false
+- :name: Bloodseeker
+  :is_collected: false
+- :name: Bounty Hunter
+  :is_collected: false
+- :name: Brewmaster
+  :is_collected: false
+- :name: Bristleback
+  :is_collected: false
+- :name: Broodmother
+  :is_collected: false
+- :name: Centaur Warrunner
+  :is_collected: false
+- :name: Chaos Knight
+  :is_collected: false
+- :name: Chen
+  :is_collected: false
+- :name: Clinkz
+  :is_collected: false
+- :name: Clockwerk
+  :is_collected: false
+- :name: Crystal Maiden
+  :is_collected: false
+- :name: Dark Seer
+  :is_collected: false
+- :name: Dark Willow
+  :is_collected: false
+- :name: Dazzle
+  :is_collected: false
+- :name: Death Prophet
+  :is_collected: false
+- :name: Disruptor
+  :is_collected: false
+- :name: Doom
+  :is_collected: false
+- :name: Dragon Knight
+  :is_collected: false
+- :name: Drow Ranger
+  :is_collected: false
+- :name: Earth Spirit
+  :is_collected: false
+- :name: Earthshaker
+  :is_collected: false
+- :name: Elder Titan
+  :is_collected: false
+- :name: Ember Spirit
+  :is_collected: false
+- :name: Enchantress
+  :is_collected: false
+- :name: Enigma
+  :is_collected: false
+- :name: Faceless Void
+  :is_collected: false
+- :name: Grimstroke
+  :is_collected: false
+- :name: Gyrocopter
+  :is_collected: false
+- :name: Huskar
+  :is_collected: false
+- :name: Invoker
+  :is_collected: false
+- :name: Io
+  :is_collected: false
+- :name: Jakiro
+  :is_collected: false
+- :name: Juggernaut
+  :is_collected: false
+- :name: Keeper of the Light
+  :is_collected: false
+- :name: Kunkka
+  :is_collected: false
+- :name: Legion Commander
+  :is_collected: false
+- :name: Leshrac
+  :is_collected: false
+- :name: Lich
+  :is_collected: false
+- :name: Lifestealer
+  :is_collected: false
+- :name: Lina
+  :is_collected: false
+- :name: Lion
+  :is_collected: false
+- :name: Lone Druid
+  :is_collected: false
+- :name: Luna
+  :is_collected: false
+- :name: Lycan
+  :is_collected: false
+- :name: Magnus
+  :is_collected: false
+- :name: Mars
+  :is_collected: false
+- :name: Medusa
+  :is_collected: false
+- :name: Meepo
+  :is_collected: false
+- :name: Mirana
+  :is_collected: false
+- :name: Monkey King
+  :is_collected: false
+- :name: Morphling
+  :is_collected: false
+- :name: Naga Siren
+  :is_collected: false
+- :name: Natures Prophet
+  :is_collected: false
+- :name: Necrophos
+  :is_collected: false
+- :name: Night Stalker
+  :is_collected: false
+- :name: Nyx Assassin
+  :is_collected: false
+- :name: Ogre Magi
+  :is_collected: false
+- :name: Omniknight
+  :is_collected: false
+- :name: Oracle
+  :is_collected: false
+- :name: Outworld Devourer
+  :is_collected: false
+- :name: Pangolier
+  :is_collected: false
+- :name: Phantom Assassin
+  :is_collected: false
+- :name: Phantom Lancer
+  :is_collected: false
+- :name: Phoenix
+  :is_collected: false
+- :name: Puck
+  :is_collected: false
+- :name: Pudge
+  :is_collected: false
+- :name: Pugna
+  :is_collected: false
+- :name: Queen of Pain
+  :is_collected: false
+- :name: Razor
+  :is_collected: false
+- :name: Riki
+  :is_collected: false
+- :name: Rubick
+  :is_collected: false
+- :name: Sand King
+  :is_collected: false
+- :name: Shadow Demon
+  :is_collected: false
+- :name: Shadow Fiend
+  :is_collected: false
+- :name: Shadow Shaman
+  :is_collected: false
+- :name: Silencer
+  :is_collected: false
+- :name: Skywrath Mage
+  :is_collected: false
+- :name: Slardar
+  :is_collected: false
+- :name: Slark
+  :is_collected: false
+- :name: Snapfire
+  :is_collected: false
+- :name: Sniper
+  :is_collected: false
+- :name: Spectre
+  :is_collected: false
+- :name: Spirit Breaker
+  :is_collected: false
+- :name: Storm Spirit
+  :is_collected: false
+- :name: Sven
+  :is_collected: false
+- :name: Techies
+  :is_collected: false
+- :name: Templar Assassin
+  :is_collected: false
+- :name: Terrorblade
+  :is_collected: false
+- :name: Tidehunter
+  :is_collected: false
+- :name: Timbersaw
+  :is_collected: false
+- :name: Tinker
+  :is_collected: false
+- :name: Tiny
+  :is_collected: false
+- :name: Treant Protector
+  :is_collected: false
+- :name: Troll Warlord
+  :is_collected: false
+- :name: Tusk
+  :is_collected: false
+- :name: Underlord
+  :is_collected: false
+- :name: Undying
+  :is_collected: false
+- :name: Ursa
+  :is_collected: false
+- :name: Vengeful Spirit
+  :is_collected: false
+- :name: Venomancer
+  :is_collected: false
+- :name: Viper
+  :is_collected: false
+- :name: Visage
+  :is_collected: false
+- :name: Void Spirit
+  :is_collected: false
+- :name: Warlock
+  :is_collected: false
+- :name: Weaver
+  :is_collected: false
+- :name: Windranger
+  :is_collected: false
+- :name: Winter Wyvern
+  :is_collected: false
+- :name: Witch Doctor
+  :is_collected: false
+- :name: Zeus
+  :is_collected: false

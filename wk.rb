@@ -1,3 +1,7 @@
+# frozen_string_literal: true
+
+require 'yaml'
+
 defeated_hero = ARGV.first
 
 def remove_hero(hero)
@@ -28,16 +32,10 @@ if defeated_hero
 
     remove_hero(hero) if should_collect == 'y'
   end
-
-  hero_data.close
 else
-  hero_data = File.open('heroes.txt', 'r')
-  heroes = hero_data.readlines.map(&:chomp)
+  heroes = YAML.load(File.read('heroes.yml'))
 
-  puts "#{heroes.length} uncollected bones: "
   heroes.each do |hero|
-    puts hero
+    puts hero[:name]
   end
-
-  hero_data.close
 end
