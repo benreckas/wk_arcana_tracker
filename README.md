@@ -11,6 +11,9 @@ ruby wk.rb
 // Puts all collected heroes
 ruby wk.rb collected
 
+// Resets all collected heroes
+ruby wk.rb reset
+
 // Searches for an uncollected hero and prompts for collection
 ruby wk.rb {hero}
 ```
