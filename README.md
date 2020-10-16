@@ -5,8 +5,11 @@ The Dota UI to keep track of the remaining heroes needed to collect is pretty us
 
 How to use:
 ```
-// Prints all uncollected heroes
+// Puts all uncollected heroes
 ruby wk.rb
+
+// Puts all collected heroes
+ruby wk.rb collected
 
 // Searches for an uncollected hero and prompts for collection
 ruby wk.rb {hero}
